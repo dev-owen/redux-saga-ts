@@ -10,7 +10,7 @@ const imgStyle = {
 const articleStyle = {
     width: '50%',
     margin: '0 auto',
-    color: 'olive'
+    color: 'black'
 }
 let NewsItem = ({article}: any) => (
     article ?
